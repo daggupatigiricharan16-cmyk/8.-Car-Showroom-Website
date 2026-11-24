@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-label="Terra SUV concept car illustration">
+<defs><linearGradient id="paint" x2="0" y2="1"><stop stop-color="#c4d0c3"/><stop offset="1" stop-color="#8b9a8b"/></linearGradient><linearGradient id="glass" x2="0" y2="1"><stop stop-color="#526b69"/><stop offset="1" stop-color="#192d2b"/></linearGradient></defs>
+<ellipse cx="450" cy="350" rx="355" ry="32" fill="#17251f" opacity=".16"/>
+<path d="M112 292 Q139 245 226 222 L309 158 Q346 130 413 127 L566 132 Q619 138 673 207 L760 237 Q800 250 807 290 L795 322 L110 322Z" fill="url(#paint)" stroke="#263a34" stroke-width="5"/>
+<path d="M277 218 L335 163 Q356 145 413 143 L552 148 Q599 153 644 215Z" fill="url(#glass)" stroke="#233a34" stroke-width="7"/>
+<path d="M453 145 L453 218 M643 217 L670 232" stroke="#a8bbb0" stroke-width="5" opacity=".65"/>
+<path d="M119 285 Q170 265 220 272 L239 301 L113 307Z" fill="#e8eee3"/><path d="M710 255 L784 273 L790 295 L723 292Z" fill="#e75e48"/>
+<path d="M254 272 H687" stroke="#f3f1e8" stroke-width="4" opacity=".5"/><path d="M350 238 L385 238 M535 238 L568 238" stroke="#e6e8dc" stroke-width="5" stroke-linecap="round"/>
+<circle cx="267" cy="315" r="62" fill="#202724"/><circle cx="267" cy="315" r="36" fill="#9aa69e"/><circle cx="267" cy="315" r="15" fill="#384740"/><path d="M267 281 V349 M233 315 H301 M243 291 L291 339 M291 291 L243 339" stroke="#e1e6df" stroke-width="5"/>
+<circle cx="676" cy="315" r="62" fill="#202724"/><circle cx="676" cy="315" r="36" fill="#9aa69e"/><circle cx="676" cy="315" r="15" fill="#384740"/><path d="M676 281 V349 M642 315 H710 M652 291 L700 339 M700 291 L652 339" stroke="#e1e6df" stroke-width="5"/>
+<path d="M110 323 H798" stroke="#182720" stroke-width="8" stroke-linecap="round"/><path d="M401 276 H548" stroke="#24372f" stroke-width="4" opacity=".55"/>
+</svg>
